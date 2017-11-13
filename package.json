@@ -1,0 +1,25 @@
+{
+  "name": "orangenow",
+  "version": "1.0.0",
+  "description": "For Orange",
+  "main": "File.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orangem21/NodeJS.git"
+  },
+  "keywords": [
+    "Orange"
+  ],
+  "author": "Orange",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orangem21/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Orangem21/NodeJS#readme",
+  "dependencies": {
+    "koa": "^2.4.1"
+  }
+}
