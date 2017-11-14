@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Orangem21/NodeJS#readme",
   "dependencies": {
+    "fs": "0.0.1-security",
     "koa": "^2.4.1"
   }
 }
